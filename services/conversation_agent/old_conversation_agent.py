@@ -1,3 +1,5 @@
+#PLEASE IGNORE THIS CODE, USED THIS ONE FOR TESTING PURPOSES ONLY
+
 from utils.file import FileHandler
 from utils.output import OutputHadler
 from core import Prompts
