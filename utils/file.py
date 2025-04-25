@@ -11,7 +11,7 @@ class FileHandler:
         os.makedirs(output_subdir, exist_ok=True)
         return file_name, output_subdir
 
-    @staticmethod
+    @staticmethod #Save json files
     def save_json(data: Dict, filepath: str) -> None:
         """Save dictionary data to JSON file."""
         try:
@@ -32,7 +32,7 @@ class FileHandler:
             raise Exception(f"Failed to save text file: {str(e)}")
 
     @staticmethod
-    def load_json(filepath: str) -> Dict:
+    def load_json(filepath: str) -> Dict: #LOad json files
         """Load JSON data from file."""
         try:
             with open(filepath, "r") as f:

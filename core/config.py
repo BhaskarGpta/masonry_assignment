@@ -1,5 +1,3 @@
-from dataclasses import dataclass
-
 class GeminiAPIConfig:
     model: str = "gemini-2.5-flash-preview-04-17"
     max_output_tokens = None

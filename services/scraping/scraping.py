@@ -17,12 +17,11 @@ class WebScraper:
     def create_driver(self):
         service = Service(executable_path='/home/bhaskar/mansory/masonry/chromedriver')
         options = Options()
-        options.add_argument('--headless')
+        options.add_argument('--headless') #headless for less gpu-usage
         options.add_argument('--no-sandbox')
         options.add_argument('--disable-dev-shm-usage')
-        # Set a larger timeout value
         driver = webdriver.Chrome(service=service, options=options)
-        driver.set_page_load_timeout(180)  # 180 seconds for loading a page
+        driver.set_page_load_timeout(180)  # increased time since was observing frequent timeouts
         return driver
 
     def scrape_site(self, url: str, title: str):
@@ -61,11 +60,11 @@ class WebScraper:
                 except Exception as e:
                     print(f"❌ Error finding Read More buttons: {e}")
 
-                driver.execute_script("window.scrollTo(0, 0);")
+                driver.execute_script("window.scrollTo(0, 0);") #SCrll above once since read more can be anywhere on the page, scrolling above and then down once more will make sure entire cntent is loaded
                 old_height = driver.execute_script("return document.body.scrollHeight")
                 while True:
                     driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-                    time.sleep(2)
+                    time.sleep(2) #wait for loading
                     new_height = driver.execute_script("return document.body.scrollHeight")
                     if old_height == new_height:
                         break
@@ -106,7 +105,7 @@ class WebScraper:
                 self.file_handler.save_json(data, path)
 
                 print(f"✅ Successfully scraped {url}")
-                break  # Exit the retry loop if scraping succeeds
+                break  # Exit the loop if scraping is successful
 
             except TimeoutException as e:
                 print(f"❌ Timeout error occurred while scraping {url}. Retrying... ({attempt + 1}/{retries})")

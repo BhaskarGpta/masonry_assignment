@@ -45,7 +45,7 @@ class LinkRetriever:
             "num": num_results,
             "start": start_index,
         }
-
+        #Implementing the search API
         response = requests.get(url, params=params)
 
         if response.status_code != 200:
@@ -65,8 +65,8 @@ class LinkRetriever:
                 "snippet": item.get("snippet", ""),
                 "formattedUrl": item.get("formattedUrl", ""),
                 "pagemap": {
-                    k: v for k, v in item.get("pagemap", {}).items()
-                    if k not in ["cse_image", "cse_thumbnail", "thumbnail"]
+                    k: v for k, v in item.get("pagemap", {}).items() #storing metadata dor better scoring, can help in identfying factual news sources
+                    if k not in ["cse_image", "cse_thumbnail", "thumbnail"] #removing unnecessary image data since the pipeline can't currently process it
                 },
             }
             for item in data.get("items", [])
@@ -97,7 +97,7 @@ class LinkRetriever:
                 scores = self.output_handler.clean_llm_output(response.content)
                 scored_links.append(link_data | scores)
 
-            except Exception as e:
+            except Exception as e: #Very frequent Resource exhaustion errors, need to handle them
                 if "ResourceExhausted" in str(e):
                     print(f"ResourceExhausted Error: {e}")
                     print("Saving scored links so far...")
@@ -116,7 +116,7 @@ class LinkRetriever:
         page_number = 0
 
         while page_number < self.max_search_pages and len(all_links) < self.max_total_filtered_links:
-            start_index = page_number * self.num_results_per_page + 1
+            start_index = page_number * self.num_results_per_page + 1 #If there are not enough links move to the next page by adjusting the start index.
             remaining_needed = self.max_total_filtered_links - len(all_links)
 
             try:
@@ -153,7 +153,7 @@ class LinkRetriever:
             print("No scored links to rank.")
             return
 
-        avg_score = sum(l["score"] for l in scored_links) / len(scored_links)
+        avg_score = sum(l["score"] for l in scored_links) / len(scored_links) #fILTERING OUT SOURCES WHICH RANK LOWER THAN AVERAGE 
         filtered = [l for l in scored_links if l["score"] >= math.floor(avg_score)]
 
         all_filtered_links.extend(filtered)

@@ -3,7 +3,7 @@ from dataclasses import dataclass, field
 
 prompts = {}
 
-prompt_dir = os.path.join(os.path.dirname(__file__), "prompts")
+prompt_dir = os.path.join(os.path.dirname(__file__), "prompts") #Load prompts from directory
 for filename in os.listdir(prompt_dir):
     if filename.endswith(".txt"):
         attribute_name = os.path.splitext(filename)[0] 

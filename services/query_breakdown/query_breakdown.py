@@ -20,7 +20,7 @@ class QueryProcessor:
         self.output_dir = "data/query/query.json"
         self.query = query
 
-    def get_time(self):
+    def get_time(self): #Need time details to identify actual dates and mak rankign and retrieval more accurate
         today = datetime.today()
         formatted_date = today.strftime("%B %d, %Y.")
         self.date = today.strftime("%d")

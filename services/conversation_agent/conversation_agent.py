@@ -57,7 +57,7 @@ class Chatbot:
                         for chunk in chunks:
                             all_documents.append(Document(page_content=chunk, metadata={"type": "list", "source": filename}))
 
-            for table in data.get("tables", []):
+            for table in data.get("tables", []):  #storing table in this format: Heading | Row1 | Row2, keeping heading with each row takes more space but makes retrieval highly accurate
                 if not isinstance(table, dict):
                     continue
                 title = table.get("heading", [])
@@ -90,16 +90,14 @@ class Chatbot:
         # Prompt
         prompt = ChatPromptTemplate.from_messages([
             SystemMessagePromptTemplate.from_template(Prompts.query_retrieval),
-            HumanMessagePromptTemplate.from_template("{input}, {chat_history}")
+            HumanMessagePromptTemplate.from_template("{input}, {chat_history}") #passing memory and user query
         ])
 
-        # Document chain
         document_chain = create_stuff_documents_chain(self.model, prompt)
 
         # Set up conversational memory
         self.memory = ConversationBufferMemory(return_messages=True, memory_key="chat_history", input_key="input")
 
-        # Combine everything into a conversational chain
         self.retrieval_chain = create_retrieval_chain(
             retriever=retriever,
             combine_docs_chain=document_chain,
@@ -114,7 +112,7 @@ class Chatbot:
 
         # Process the first query
         try:
-            response = self.retrieval_chain.invoke({"input": first_query, "chat_history": self.memory})
+            response = self.retrieval_chain.invoke({"input": first_query, })
             print(f"Bot: {response['answer']}\n")
         except Exception as e:
             print(f"❌ Error: {e}")
