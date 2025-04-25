@@ -20,10 +20,10 @@ class LLMInitializer:
 
     def set_llm(self) -> ChatGoogleGenerativeAI:
         llm = ChatGoogleGenerativeAI(
-            model=self.config.model,  # Corrected to use model_name
+            model=self.config.model,  
             temperature=self.config.temperature,
             max_output_tokens=self.config.max_output_tokens,
-            timeout=self.config.timeout,  # Corrected to use timeout
+            timeout=self.config.timeout,  
             max_retries=self.config.max_retries,
             google_api_key=self.api_key
         )

@@ -9,15 +9,15 @@ def main():
     Main function to run the application.
     """
     query = "What happened in Kashmir recently?"
-#
-    #QueryAnalyzer = QueryProcessor(query) #Initialize our Query Analyzer Agent
-    #QueryAnalyzer.break_query()
-#
-    #QueryQill = LinkRetriever() #Initialize our smart Link Retriever and Ranking Agent
-    #QueryQill.rank()
 
-    #Scraper = WebScraper("data/links/scored_links.json")
-    #Scraper.start_scraping()
+    QueryAnalyzer = QueryProcessor(query) #Initialize our Query Analyzer Agent
+    QueryAnalyzer.break_query()
+
+    QueryQill = LinkRetriever() #Initialize our smart Link Retriever and Ranking Agent
+    QueryQill.rank()
+
+    Scraper = WebScraper("data/links/scored_links.json")
+    #craper.start_scraping()
 
     BT_7274 = Chatbot(query)
     BT_7274.start_chat()
