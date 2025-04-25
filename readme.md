@@ -44,5 +44,5 @@ This is a conversational agent designed to search the web for user queries and e
     - Provides fallback responses to keep the conversation flowing.
     -Manages rate limit errors 
 
-**ARCHITECTURE**
+### **ARCHITECTURE**
 ![Alt text](./data/architecture.png)
