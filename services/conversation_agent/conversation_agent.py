@@ -112,7 +112,7 @@ class Chatbot:
 
         # Process the first query
         try:
-            response = self.retrieval_chain.invoke({"input": first_query, })
+            response = self.retrieval_chain.invoke({"input": first_query, "chat_history": self.memory})
             print(f"Bot: {response['answer']}\n")
         except Exception as e:
             print(f"❌ Error: {e}")

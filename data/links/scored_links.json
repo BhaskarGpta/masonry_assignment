@@ -1,82 +1,486 @@
 [
     {
+        "title": "Pahalgam attack: How will India respond to the Kashmir killings",
+        "link": "https://www.bbc.com/news/articles/cwynx7kgyqvo",
+        "snippet": "3 days ago ... Deadly Kashmir attack risks India military escalation against Pakistan ... Tuesday's bloodshed in Pahalgam - where at least 26 tourists were\u00a0...",
+        "formattedUrl": "https://www.bbc.com/news/articles/cwynx7kgyqvo",
+        "pagemap": {
+            "metatags": [
+                {
+                    "og:image": "https://ichef.bbci.co.uk/news/1024/branded_news/7f18/live/8159fed0-201b-11f0-9c65-a5c3dc449bf3.jpg",
+                    "apple-itunes-app": "app-id=364147881, app-argument=https://www.bbc.com/news/articles/cwynx7kgyqvo",
+                    "twitter:card": "summary_large_image",
+                    "theme-color": "#ffffff",
+                    "cxenseparse:publishtime": "2025-04-23T21:44:52.239Z",
+                    "al:android:package": "bbc.mobile.news.ww",
+                    "al:ios:url": "bbcx://news/articles/cwynx7kgyqvo",
+                    "og:description": "India will respond but it's not clear how - or at what cost, experts say.",
+                    "al:ios:app_store_id": "364147881",
+                    "next-head-count": "40",
+                    "twitter:image:alt": "Activists of India's Bharatiya Janata Party (BJP) take part in a protest against Pakistan, in Amritsar on April 23, 2025, condemning the Kashmir tourist attack. Gunmen in Indian-run Kashmir killed 26 people on April 22, according to a hospital list of the dead that was verified by police, the region's deadliest attack on civilians since 2000.",
+                    "cxenseparse:author": "Soutik Biswas",
+                    "article:modified_time": "2025-04-23T21:44:52.239Z",
+                    "msapplication-tilecolor": "#da532c",
+                    "twitter:title": "Pahalgam attack: How will India respond to the Kashmir killings",
+                    "og:image:alt": "Activists of India's Bharatiya Janata Party (BJP) take part in a protest against Pakistan, in Amritsar on April 23, 2025, condemning the Kashmir tourist attack. Gunmen in Indian-run Kashmir killed 26 people on April 22, according to a hospital list of the dead that was verified by police, the region's deadliest attack on civilians since 2000.",
+                    "al:ios:app_name": "BBC: World News & Stories",
+                    "cxenseparse:pageclass": "article",
+                    "og:title": "Pahalgam attack: How will India respond to the Kashmir killings",
+                    "al:web:url": "https://bbc.com/news/articles/cwynx7kgyqvo",
+                    "version": "web-2.19.1-12",
+                    "twitter:image:src": "https://ichef.bbci.co.uk/news/1024/branded_news/7f18/live/8159fed0-201b-11f0-9c65-a5c3dc449bf3.jpg",
+                    "al:android:url": "bbcx://news/articles/cwynx7kgyqvo",
+                    "viewport": "width=device-width",
+                    "twitter:description": "India will respond but it's not clear how - or at what cost, experts say.",
+                    "al:android:app_name": "BBC: World News & Stories"
+                }
+            ]
+        },
         "score": 10,
-        "title": "Jammu and Kashmir news, Latest and Live Updates on Weather ...",
-        "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/"
+        "url": "https://www.bbc.com/news/articles/cwynx7kgyqvo"
     },
     {
+        "title": "India and Pakistan near strategic standoff after Pahalgam attack in ...",
+        "link": "https://www.aljazeera.com/news/2025/4/24/india-and-pakistan-head-towards-a-strategic-standoff-after-pahalgam-attack",
+        "snippet": "3 days ago ... \u201cIndia has not given any evidence [of Pakistani involvement in the attack].\u201d They have not shown any maturity in their response. This is not a\u00a0...",
+        "formattedUrl": "https://www.aljazeera.com/.../india-and-pakistan-head-towards-a-strategic-st...",
+        "pagemap": {
+            "metatags": [
+                {
+                    "pagetype": "Article Page",
+                    "og:image": "https://www.aljazeera.com/wp-content/uploads/2025/04/2025-04-23T131926Z_1033127808_RC2M3EAYEIEU_RTRMADP_3_INDIA-KASHMIR-ATTACK-1745479717.jpg?resize=1920%2C1440",
+                    "apple-itunes-app": "app-id=1534955972",
+                    "twitter:card": "summary_large_image",
+                    "og:site_name": "Al Jazeera",
+                    "twitter:url": "https://www.aljazeera.com/news/2025/4/24/india-and-pakistan-head-towards-a-strategic-standoff-after-pahalgam-attack",
+                    "pagesection": "News,Armed Groups,Conflict,Narendra Modi,Nuclear Weapons",
+                    "channel": "aje",
+                    "publisheddate": "2025-04-24T12:04:54",
+                    "postid": "3665236",
+                    "source": "Al Jazeera",
+                    "displayauthors": "Abid Hussain",
+                    "og:description": "Tensions have escalated between the two nuclear powers following Tuesday\u2019s attack on tourists in Indian Kashmir.",
+                    "taxonomyterms": "News, Armed Groups, Conflict, Narendra Modi, Nuclear Weapons, Asia, India, Pakistan",
+                    "lastdate": "2025-04-24T13:49:51",
+                    "primarytopic": "News",
+                    "twitter:image:alt": "India and Pakistan near strategic standoff after Pahalgam attack in Kashmir",
+                    "sourcetaxonomy": "Al Jazeera",
+                    "internalreporting": "Broaden my perspective",
+                    "where": "Asia, India, Pakistan",
+                    "primarytag": "Armed Groups",
+                    "ga4": "G-XN9JB9Q0M1",
+                    "twitter:account_id": "5536782",
+                    "pageauthors": "Abid Hussain",
+                    "og:type": "article",
+                    "twitter:title": "India and Pakistan near strategic standoff after Pahalgam attack in Kashmir",
+                    "taxonomy-tags": "News, Armed Groups, Conflict, Narendra Modi, Nuclear Weapons",
+                    "topics": "News",
+                    "author": "Abid Hussain",
+                    "og:title": "India and Pakistan near strategic standoff after Pahalgam attack in Kashmir",
+                    "tags": "Armed Groups, Conflict, Narendra Modi, Nuclear Weapons",
+                    "contenttype": "post",
+                    "twitter:image:src": "https://www.aljazeera.com/wp-content/uploads/2025/04/2025-04-23T131926Z_1033127808_RC2M3EAYEIEU_RTRMADP_3_INDIA-KASHMIR-ATTACK-1745479717.jpg?resize=1920%2C1440",
+                    "user:signinstatus": "Signed Out",
+                    "articleslug": "india-and-pakistan-head-towards-a-strategic-standoff-after-pahalgam-attack",
+                    "postlink": "/news/2025/4/24/india-and-pakistan-head-towards-a-strategic-standoff-after-pahalgam-attack",
+                    "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                    "twitter:description": "Tensions have escalated between the two nuclear powers following Tuesday\u2019s attack on tourists in Indian Kashmir.",
+                    "user:verificationstatus": "Not Verified",
+                    "pagetitle": "India and Pakistan near strategic standoff after Pahalgam attack in Kashmir",
+                    "og:url": "https://www.aljazeera.com/news/2025/4/24/india-and-pakistan-head-towards-a-strategic-standoff-after-pahalgam-attack"
+                }
+            ]
+        },
         "score": 10,
-        "title": "Kashmir | AP News",
-        "url": "https://apnews.com/hub/kashmir"
+        "url": "https://www.aljazeera.com/news/2025/4/24/india-and-pakistan-head-towards-a-strategic-standoff-after-pahalgam-attack"
     },
     {
+        "title": "India closes main border crossing with Pakistan after Kashmir attack",
+        "link": "https://www.bbc.com/news/articles/ce8g2njm2d2o",
+        "snippet": "3 days ago ... In the aftermath of the Pahalgam attack, the Pakistani foreign ministry said it was \"concerned at the loss of tourists' lives\" and expressed\u00a0...",
+        "formattedUrl": "https://www.bbc.com/news/articles/ce8g2njm2d2o",
+        "pagemap": {
+            "metatags": [
+                {
+                    "og:image": "https://ichef.bbci.co.uk/news/1024/branded_news/4af0/live/48bb73b0-20b1-11f0-9060-674316cb3a1f.jpg",
+                    "apple-itunes-app": "app-id=364147881, app-argument=https://www.bbc.com/news/articles/ce8g2njm2d2o",
+                    "twitter:card": "summary_large_image",
+                    "theme-color": "#ffffff",
+                    "cxenseparse:publishtime": "2025-04-23T17:44:10.173Z",
+                    "al:android:package": "bbc.mobile.news.ww",
+                    "al:ios:url": "bbcx://news/articles/ce8g2njm2d2o",
+                    "og:description": "A historic water treaty has also been suspended after gunmen killed tourists in Indian-administered Kashmir.",
+                    "al:ios:app_store_id": "364147881",
+                    "next-head-count": "40",
+                    "twitter:image:alt": "Family members of 30-year-old Adil Hussain mourn following the completion of his last rites in the Hapatnar area of Islamabad district, south of Srinagar, in Indian-administered Kashmir",
+                    "cxenseparse:author": "Sean Seddon | Koh Ewe",
+                    "article:modified_time": "2025-04-24T02:00:50.726Z",
+                    "msapplication-tilecolor": "#da532c",
+                    "twitter:title": "India closes main border crossing with Pakistan after Kashmir attack",
+                    "og:image:alt": "Family members of 30-year-old Adil Hussain mourn following the completion of his last rites in the Hapatnar area of Islamabad district, south of Srinagar, in Indian-administered Kashmir",
+                    "al:ios:app_name": "BBC: World News & Stories",
+                    "cxenseparse:pageclass": "article",
+                    "og:title": "India closes main border crossing with Pakistan after Kashmir attack",
+                    "al:web:url": "https://bbc.com/news/articles/ce8g2njm2d2o",
+                    "version": "web-2.19.1-12",
+                    "twitter:image:src": "https://ichef.bbci.co.uk/news/1024/branded_news/4af0/live/48bb73b0-20b1-11f0-9060-674316cb3a1f.jpg",
+                    "al:android:url": "bbcx://news/articles/ce8g2njm2d2o",
+                    "viewport": "width=device-width",
+                    "twitter:description": "A historic water treaty has also been suspended after gunmen killed tourists in Indian-administered Kashmir.",
+                    "al:android:app_name": "BBC: World News & Stories"
+                }
+            ]
+        },
         "score": 10,
-        "title": "At least five killed after gunmen open fire on tourists in Kashmir",
-        "url": "https://www.bbc.com/news/articles/cy9vyzzyjzlo"
+        "url": "https://www.bbc.com/news/articles/ce8g2njm2d2o"
     },
     {
+        "title": "Updates: India shuts border with Pakistan after Pahalgam attack in ...",
+        "link": "https://www.aljazeera.com/news/liveblog/2025/4/23/kashmir-attack-live-india-looks-for-gunmen-after-26-killed-in-pahalgam",
+        "snippet": "3 days ago ... ). WATCH: India vows 'loud and clear' response to Kashmir attack. See how India has reacted to the deadly assault in our video below: 23 Apr\u00a0...",
+        "formattedUrl": "https://www.aljazeera.com/.../kashmir-attack-live-india-looks-for-gunmen-a...",
+        "pagemap": {
+            "LiveBlogPosting": [
+                {}
+            ],
+            "metatags": [
+                {
+                    "pagetype": "Article Page",
+                    "og:image": "https://www.aljazeera.com/wp-content/uploads/2025/04/2025-04-23T120001Z_1942996642_RC2M3EAMLRNE_RTRMADP_3_INDIA-KASHMIR-ATTACK-1745409763.jpg?resize=1920%2C1440",
+                    "apple-itunes-app": "app-id=1534955972",
+                    "twitter:card": "summary_large_image",
+                    "og:site_name": "Al Jazeera",
+                    "twitter:url": "https://www.aljazeera.com/news/liveblog/2025/4/23/kashmir-attack-live-india-looks-for-gunmen-after-26-killed-in-pahalgam",
+                    "pagesection": "liveblog,News,Conflict",
+                    "channel": "aje",
+                    "publisheddate": "2025-04-23T07:49:34",
+                    "postid": "3662607",
+                    "source": "Al Jazeera and news agencies",
+                    "video": "1",
+                    "displayauthors": "Usaid Siddiqui, Alma Milisic, Jillian Kestler-D'Amours, Edna Mohamed",
+                    "og:description": "Security forces carry out a major manhunt in disputed region, a day after gunmen opened fire on tourists, killing 26.",
+                    "taxonomyterms": "News, Conflict, Asia, India, Kashmir",
+                    "lastdate": "2025-04-24T04:16:32",
+                    "primarytopic": "News",
+                    "twitter:image:alt": "Updates: India shuts border with Pakistan after Pahalgam attack in Kashmir",
+                    "sourcetaxonomy": "Al Jazeera and news agencies",
+                    "internalreporting": "Update me now",
+                    "featuredmedia": "BC-6371819409112",
+                    "bcvideotitle": "Videos capture deadly attack in Indian-administered Kashmir",
+                    "where": "Asia, India, Kashmir",
+                    "primarytag": "Conflict",
+                    "ga4": "G-XN9JB9Q0M1",
+                    "twitter:account_id": "5536782",
+                    "og:type": "article",
+                    "twitter:title": "Updates: India shuts border with Pakistan after Pahalgam attack in Kashmir",
+                    "topics": "News",
+                    "author": "Usaid Siddiqui,Alma Milisic,Jillian Kestler-D'Amours,Edna Mohamed",
+                    "og:title": "Updates: India shuts border with Pakistan after Pahalgam attack in Kashmir",
+                    "tags": "Conflict",
+                    "contenttype": "liveblog",
+                    "twitter:image:src": "https://www.aljazeera.com/wp-content/uploads/2025/04/2025-04-23T120001Z_1942996642_RC2M3EAMLRNE_RTRMADP_3_INDIA-KASHMIR-ATTACK-1745409763.jpg?resize=1920%2C1440",
+                    "user:signinstatus": "Signed Out",
+                    "articleslug": "kashmir-attack-live-india-looks-for-gunmen-after-26-killed-in-pahalgam",
+                    "postlink": "/news/liveblog/2025/4/23/kashmir-attack-live-india-looks-for-gunmen-after-26-killed-in-pahalgam",
+                    "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                    "twitter:description": "Security forces carry out a major manhunt in disputed region, a day after gunmen opened fire on tourists, killing 26.",
+                    "user:verificationstatus": "Not Verified",
+                    "pagetitle": "Updates: India shuts border with Pakistan after Pahalgam attack in Kashmir",
+                    "og:url": "https://www.aljazeera.com/news/liveblog/2025/4/23/kashmir-attack-live-india-looks-for-gunmen-after-26-killed-in-pahalgam"
+                }
+            ]
+        },
         "score": 10,
-        "title": "Kashmir | Today's latest from Al Jazeera",
-        "url": "https://www.aljazeera.com/where/kashmir/"
+        "url": "https://www.aljazeera.com/news/liveblog/2025/4/23/kashmir-attack-live-india-looks-for-gunmen-after-26-killed-in-pahalgam"
     },
     {
+        "title": "What happened in Pahalgam and why is the attack escalating India ...",
+        "link": "https://www.cnn.com/2025/04/24/india/pahalgam-india-pakistan-attack-explainer-intl-hnk/index.html",
+        "snippet": "2 days ago ... India has justified its retaliatory moves as a response to Pakistan's alleged \u201csupport for cross-border terrorism.\u201d New Delhi has closed a key\u00a0...",
+        "formattedUrl": "https://www.cnn.com/2025/04/24/india/pahalgam-india.../index.html",
+        "pagemap": {
+            "metatags": [
+                {
+                    "og:image": "https://media.cnn.com/api/v1/images/stellar/prod/ap25113224464051.jpg?c=16x9&q=w_800,c_fill",
+                    "twitter:title": "A tourist massacre in Kashmir is escalating tensions between India and Pakistan. Here\u2019s what we know | CNN",
+                    "og:type": "article",
+                    "twitter:card": "summary_large_image",
+                    "article:published_time": "2025-04-24T07:02:25.103Z",
+                    "og:site_name": "CNN",
+                    "author": "Rhea Mogul, Sophia Saifi",
+                    "og:title": "A tourist massacre in Kashmir is escalating tensions between India and Pakistan. Here\u2019s what we know | CNN",
+                    "meta-section": "world",
+                    "type": "article",
+                    "og:description": "Relations between India and Pakistan are cratering following a deadly militant attack in Indian-administered Kashmir that has sparked tit-for-tat reprisals and raised fears of another military escalation between the nuclear-armed rivals.",
+                    "twitter:image": "https://media.cnn.com/api/v1/images/stellar/prod/ap25113224464051.jpg?c=16x9&q=w_800,c_fill",
+                    "article:publisher": "https://www.facebook.com/CNN",
+                    "fb:app_id": "80401312489",
+                    "twitter:site": "@CNN",
+                    "article:modified_time": "2025-04-25T06:30:36.943Z",
+                    "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                    "twitter:description": "Relations between India and Pakistan are cratering following a deadly militant attack in Indian-administered Kashmir that has sparked tit-for-tat reprisals and raised fears of another military escalation between the nuclear-armed rivals.",
+                    "template_type": "article_leaf",
+                    "theme": "world",
+                    "og:url": "https://www.cnn.com/2025/04/24/india/pahalgam-india-pakistan-attack-explainer-intl-hnk/index.html"
+                }
+            ]
+        },
         "score": 10,
-        "title": "LATEST NEWS | Greater Kashmir",
-        "url": "https://www.greaterkashmir.com/latest-news/"
+        "url": "https://www.cnn.com/2025/04/24/india/pahalgam-india-pakistan-attack-explainer-intl-hnk/index.html"
     },
     {
+        "title": "India downgrades ties with Pakistan after attack on Kashmir tourists ...",
+        "link": "https://www.reuters.com/world/india/attack-tourists-indian-kashmir-kills-26-people-injures-17-police-say-2025-04-23/",
+        "snippet": "3 days ago ... India's response came a day after the attack in the Baisaran Valley in the Pahalgam area of the scenic, Himalayan federal territory of Jammu and\u00a0...",
+        "formattedUrl": "https://www.reuters.com/.../india/attack-tourists-indian-kashmir-kills-26-peo...",
+        "pagemap": {
+            "metatags": [
+                {
+                    "apple-itunes-app": "app-id=602660809, app-argument=https://www.reuters.com/world/india/attack-tourists-indian-kashmir-kills-26-people-injures-17-police-say-2025-04-23/?id=JUZKJXPR3NMGDCWIMORIKABCEM",
+                    "og:image": "https://www.reuters.com/resizer/v2/UFN3SCE5BRJM7H7GEMWTWIXCGM.jpg?auth=8e45db12f28c9328a04bb907e8bd6b17507d2ca9136050c7b6becb8d704ce4fd&height=1005&width=1920&quality=80&smart=true",
+                    "analytics:page_layout": "regular-article",
+                    "article:published_time": "2025-04-23T22:54:21Z",
+                    "og:image:width": "1200",
+                    "twitter:card": "summary_large_image",
+                    "og:site_name": "Reuters",
+                    "og:article:modified_time": "2025-04-24T00:53:55.262Z",
+                    "ccbot": "nofollow",
+                    "analytics:ad_layout": "leaderboard, right rail, sponsored",
+                    "analyticsattributes.topicchannel": "World",
+                    "title": "India downgrades ties with Pakistan after attack on Kashmir tourists kills 26 | Reuters",
+                    "og:description": "India announced a raft of measures to downgrade its ties with Pakistan on Wednesday, a day after suspected militants killed 26 men at a tourist destination in Kashmir in the worst attack on civilians in the country in nearly two decades.",
+                    "twitter:creator": "@Reuters",
+                    "twitter:image": "https://www.reuters.com/resizer/v2/UFN3SCE5BRJM7H7GEMWTWIXCGM.jpg?auth=8e45db12f28c9328a04bb907e8bd6b17507d2ca9136050c7b6becb8d704ce4fd&height=1005&width=1920&quality=80&smart=true",
+                    "twitter:image:alt": "REUTERS/Stringer",
+                    "twitter:site": "@Reuters",
+                    "article:modified_time": "2025-04-24T00:53:55.262Z",
+                    "fb:admins": "988502044532272",
+                    "article:content_tier": "metered",
+                    "og:type": "article",
+                    "article:section": "India",
+                    "og:image:alt": "REUTERS/Stringer",
+                    "twitter:title": "India downgrades ties with Pakistan after attack on Kashmir tourists kills 26",
+                    "ad:template": "article",
+                    "og:image:url": "https://www.reuters.com/resizer/v2/UFN3SCE5BRJM7H7GEMWTWIXCGM.jpg?auth=8e45db12f28c9328a04bb907e8bd6b17507d2ca9136050c7b6becb8d704ce4fd&height=1005&width=1920&quality=80&smart=true",
+                    "dcsext.dartzone": "/4735792/reuters.com/world/india/article",
+                    "og:title": "India downgrades ties with Pakistan after attack on Kashmir tourists kills 26",
+                    "dcsext.channellist": "World;World;Asia Pacific;India",
+                    "og:image:height": "628",
+                    "og:article:published_time": "2025-04-23T22:54:21Z",
+                    "og:updated_time": "2025-04-24T00:53:55.262Z",
+                    "fb:pages": "114050161948682",
+                    "article:author": "Fayaz Bukhari,Sakshi Dayal,YP Rajesh",
+                    "article:tag": "CWP,DIP,GEN,INSURG,NEWS1,POL,SECUR,VIO,SASIA,IN,PK,ASXPAC,EMRG,ASIA,TOPNWS,DEST:NOINTIM,DEST:OUSWDM,DEST:OUSTPM,DEST:OCATPM,DEST:OUKTPM,DEST:SEATP,PACKAGE:US-TOP-NEWS,PACKAGE:WORLD-NEWS,WAR,DEST:CSA,DEST:SNI,DEST:LBY,DEST:REULB,DEST:G,DEST:RAST,DEST:SOF,DEST:M,DEST:PGE,DEST:RNP,DEST:E,DEST:C,DEST:AFA,DEST:GRO,DEST:PSC,DEST:SNS,DEST:U,DEST:O,DEST:DNP,DEST:MTL,DEST:UCDPTEST,DEST:RWSA,DEST:GNS,DEST:RWS,DEST:D,DEST:RBN,DEST:OIL,TOPCMB,MTPIX,MTVID,PXP,DLI,SOCI,TOUR,DEST:ZZ,DEST:ZD",
+                    "analyticsattributes.topicsubchannel": "India",
+                    "fb:app_id": "988502044532272",
+                    "og:locale:alternate": "en_US",
+                    "viewport": "width=device-width, initial-scale=1",
+                    "twitter:description": "India announced a raft of measures to downgrade its ties with Pakistan on Wednesday, a day after suspected militants killed 26 men at a tourist destination in Kashmir in the worst attack on civilians in the country in nearly two decades.",
+                    "og:locale": "en_US",
+                    "og:url": "https://www.reuters.com/world/india/attack-tourists-indian-kashmir-kills-26-people-injures-17-police-say-2025-04-23/"
+                }
+            ]
+        },
         "score": 10,
-        "title": "Kashmir terror attack one of the worst in recent times | World News",
-        "url": "https://news.sky.com/story/kashmir-terror-attack-one-of-the-worst-in-recent-times-as-modi-to-return-to-india-overnight-13353927"
+        "url": "https://www.reuters.com/world/india/attack-tourists-indian-kashmir-kills-26-people-injures-17-police-say-2025-04-23/"
     },
     {
+        "title": "Killing of Civilians Near Pahalgam in Kashmir Shatters Illusion of ...",
+        "link": "https://www.nytimes.com/2025/04/23/world/asia/kashmir-attack-india-pakistan.html",
+        "snippet": "4 days ago ... ... response to Pakistan's support of terrorist attacks on Indian soil. ... The attack in Indian-administered Kashmir hit India's government in\u00a0...",
+        "formattedUrl": "https://www.nytimes.com/2025/04/23/.../kashmir-attack-india-pakistan.html",
+        "pagemap": {
+            "metatags": [
+                {
+                    "og:image": "https://static01.nyt.com/images/2025/04/23/multimedia/23INT-KASHMIR-ATTACK-05-cklp/23INT-KASHMIR-ATTACK-05-cklp-facebookJumbo.jpg",
+                    "nyt_uri": "nyt://article/3d37463c-19b0-59fa-b1f2-70616b487fd6",
+                    "twitter:app:id:googleplay": "com.nytimes.android",
+                    "twitter:card": "summary_large_image",
+                    "article:published_time": "2025-04-23T08:19:28.000Z",
+                    "pt": "article",
+                    "twitter:url": "https://www.nytimes.com/2025/04/23/world/asia/kashmir-attack-india-pakistan.html",
+                    "pdate": "20250423",
+                    "articleid": "100000010125549",
+                    "al:android:package": "com.nytimes.android",
+                    "al:ipad:app_store_id": "357066198",
+                    "twitter:app:name:googleplay": "NYTimes",
+                    "og:description": "India announced a series of retaliatory actions, and hinted at the possibility of more, in response to what it called Pakistan\u2019s support of terrorism on Indian soil.",
+                    "twitter:image": "https://static01.nyt.com/images/2025/04/23/multimedia/23INT-KASHMIR-ATTACK-05-cklp/23INT-KASHMIR-ATTACK-05-cklp-videoSixteenByNine3000.jpg",
+                    "pst": "News",
+                    "twitter:image:alt": "Indian soldiers after a search operation on Wednesday in the aftermath of the attack.",
+                    "al:iphone:app_name": "NYTimes",
+                    "article:modified_time": "2025-04-24T01:21:37.000Z",
+                    "news_keywords": "India,Kashmir and Jammu,Kashmir,Pakistan,Terrorism,Territorial Disputes,Narendra Modi,International relations",
+                    "scg": "asia",
+                    "article:content_tier": "metered",
+                    "msapplication-starturl": "https://www.nytimes.com",
+                    "image": "https://static01.nyt.com/images/2025/04/23/multimedia/23INT-KASHMIR-ATTACK-05-cklp/23INT-KASHMIR-ATTACK-05-cklp-facebookJumbo.jpg",
+                    "twitter:title": "India Takes Aim at Pakistan After Slaughter of Civilians in Kashmir",
+                    "og:type": "article",
+                    "og:image:alt": "Indian soldiers after a search operation on Wednesday in the aftermath of the attack.",
+                    "article:section": "World",
+                    "cg": "world",
+                    "pubp_event_id": "pubp://event/65aff434336d47adabd496d0eab3d1cd",
+                    "og:title": "India Takes Aim at Pakistan After Slaughter of Civilians in Kashmir",
+                    "article:author": "https://www.nytimes.com/by/mujib-mashal",
+                    "url": "https://www.nytimes.com/2025/04/23/world/asia/kashmir-attack-india-pakistan.html",
+                    "article:tag": "India",
+                    "al:iphone:url": "nytimes://www.nytimes.com/2025/04/23/world/asia/kashmir-attack-india-pakistan.html",
+                    "al:android:url": "nyt://article/3d37463c-19b0-59fa-b1f2-70616b487fd6",
+                    "twitter:app:url:googleplay": "nyt://article/3d37463c-19b0-59fa-b1f2-70616b487fd6",
+                    "al:ipad:url": "nytimes://www.nytimes.com/2025/04/23/world/asia/kashmir-attack-india-pakistan.html",
+                    "byl": "By Mujib Mashal and Suhasini Raj",
+                    "twitter:description": "India announced a series of retaliatory actions, and hinted at the possibility of more, in response to what it called Pakistan\u2019s support of terrorism on Indian soil.",
+                    "al:iphone:app_store_id": "284862083",
+                    "og:url": "https://www.nytimes.com/2025/04/23/world/asia/kashmir-attack-india-pakistan.html",
+                    "al:android:app_name": "NYTimes",
+                    "article:opinion": "false"
+                }
+            ]
+        },
         "score": 10,
-        "title": "Greater Kashmir",
-        "url": "https://www.greaterkashmir.com/"
+        "url": "https://www.nytimes.com/2025/04/23/world/asia/kashmir-attack-india-pakistan.html"
     },
     {
+        "title": "After Kashmir attack, India reports exchange of fire with Pakistan : NPR",
+        "link": "https://www.npr.org/2025/04/25/g-s1-62677/india-pakistan-kashmir-line-of-control-firing",
+        "snippet": "1 day ago ... ... attack on tourists in Pahalgam. People walk through the debris of a demolished house related to the family of one of the suspects in\u00a0...",
+        "formattedUrl": "https://www.npr.org/2025/.../india-pakistan-kashmir-line-of-control-firing",
+        "pagemap": {
+            "speakablespecification": [
+                {
+                    "cssselector": "[data-is-speakable]"
+                }
+            ],
+            "metatags": [
+                {
+                    "date": "2025-04-25",
+                    "apple-itunes-app": "app-id=324906251, app-argument=https://www.npr.org/2025/04/25/g-s1-62677/india-pakistan-kashmir-line-of-control-firing",
+                    "og:image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3386x1905+0+176/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F56%2Ffa%2F5d7d18ab45ac96da654c720371d1%2Fgettyimages-2211237788.jpg",
+                    "og:type": "article",
+                    "twitter:card": "summary_large_image",
+                    "twitter:title": "After deadly Kashmir attack, India reports exchange of fire with Pakistani soldiers",
+                    "og:site_name": "NPR",
+                    "cxenseparse:pageclass": "article",
+                    "twitter:domain": "npr.org",
+                    "cxenseparse:publishtime": "2025-04-25T12:03:16-04:00",
+                    "og:title": "After deadly Kashmir attack, India reports exchange of fire with Pakistani soldiers",
+                    "rating": "General",
+                    "og:description": "A day after the U.N. appealed for restraint following Tuesday's deadly attack in Indian-administered Kashmir, India reported an exchange of fire across the de facto border in the disputed region.",
+                    "fb:pages": "10643211755",
+                    "twitter:image:src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3386x1905+0+176/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F56%2Ffa%2F5d7d18ab45ac96da654c720371d1%2Fgettyimages-2211237788.jpg",
+                    "fb:app_id": "138837436154588",
+                    "cxenseparse:author": "Diaa Hadid",
+                    "twitter:site": "@NPR",
+                    "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                    "article:content_tier": "free",
+                    "og:url": "https://www.npr.org/2025/04/25/g-s1-62677/india-pakistan-kashmir-line-of-control-firing",
+                    "article:opinion": "false"
+                }
+            ]
+        },
         "score": 10,
-        "title": "Jammu-Kashmir News Latest Jammu-Kashmir News Headlines ...",
-        "url": "https://timesofindia.indiatimes.com/india/jammu-and-kashmir"
+        "url": "https://www.npr.org/2025/04/25/g-s1-62677/india-pakistan-kashmir-line-of-control-firing"
     },
     {
+        "title": "How did India and Pakistan respond to the Pahalgam attack in ...",
+        "link": "https://www.reuters.com/world/asia-pacific/what-steps-have-india-pakistan-taken-against-each-other-after-kashmir-attack-2025-04-24/",
+        "snippet": "2 days ago ... An attack on tourists in India's Himalayan territory of Kashmir this week sparked a new crisis between nuclear armed South Asian neighbours\u00a0...",
+        "formattedUrl": "https://www.reuters.com/.../what-steps-have-india-pakistan-taken-against-ea...",
+        "pagemap": {
+            "metatags": [
+                {
+                    "apple-itunes-app": "app-id=602660809, app-argument=https://www.reuters.com/world/asia-pacific/what-steps-have-india-pakistan-taken-against-each-other-after-kashmir-attack-2025-04-24/?id=MPOKVJZIRRJHBM2GWMBXOWETNY",
+                    "og:image": "https://www.reuters.com/resizer/v2/IXSWJB2UMBJNZA7ZZPP7LV6RK4.jpg?auth=cd6a3c8d14e407d0901693abebc087bb1782ac07f9f02a734eebd3a61db40906&height=1005&width=1920&quality=80&smart=true",
+                    "analytics:page_layout": "regular-article",
+                    "article:published_time": "2025-04-25T02:14:38Z",
+                    "og:image:width": "1200",
+                    "twitter:card": "summary_large_image",
+                    "og:site_name": "Reuters",
+                    "og:article:modified_time": "2025-04-25T03:09:42.272Z",
+                    "ccbot": "nofollow",
+                    "analytics:ad_layout": "leaderboard, right rail, sponsored",
+                    "analyticsattributes.topicchannel": "World",
+                    "title": "How did India and Pakistan respond to the Pahalgam attack in Kashmir? | Reuters",
+                    "og:description": "An attack on tourists in India's Himalayan territory of Kashmir this week sparked a new crisis between nuclear armed South Asian neighbours India and Pakistan, with New Delhi blaming militants with \"cross-border linkages\" for the killings.",
+                    "twitter:creator": "@Reuters",
+                    "twitter:image": "https://www.reuters.com/resizer/v2/IXSWJB2UMBJNZA7ZZPP7LV6RK4.jpg?auth=cd6a3c8d14e407d0901693abebc087bb1782ac07f9f02a734eebd3a61db40906&height=1005&width=1920&quality=80&smart=true",
+                    "twitter:image:alt": "Supporters of the Pakistan Markazi Muslim League (PMML), protest against the suspension of Indus Waters Treaty by India, in Karachi, Pakistan April 24, 2025. REUTERS/Akhtar Soomro",
+                    "twitter:site": "@Reuters",
+                    "article:modified_time": "2025-04-25T03:09:42.272Z",
+                    "fb:admins": "988502044532272",
+                    "article:content_tier": "metered",
+                    "og:type": "article",
+                    "article:section": "Asia Pacific",
+                    "og:image:alt": "Supporters of the Pakistan Markazi Muslim League (PMML), protest against the suspension of Indus Waters Treaty by India, in Karachi, Pakistan April 24, 2025. REUTERS/Akhtar Soomro",
+                    "twitter:title": "How did India and Pakistan respond to the Pahalgam attack in Kashmir?",
+                    "ad:template": "article",
+                    "og:image:url": "https://www.reuters.com/resizer/v2/IXSWJB2UMBJNZA7ZZPP7LV6RK4.jpg?auth=cd6a3c8d14e407d0901693abebc087bb1782ac07f9f02a734eebd3a61db40906&height=1005&width=1920&quality=80&smart=true",
+                    "dcsext.dartzone": "/4735792/reuters.com/world/apac/article",
+                    "og:title": "How did India and Pakistan respond to the Pahalgam attack in Kashmir?",
+                    "dcsext.channellist": "World;World;Asia Pacific;India",
+                    "og:image:height": "628",
+                    "og:article:published_time": "2025-04-25T02:14:38Z",
+                    "og:updated_time": "2025-04-25T03:09:42.272Z",
+                    "fb:pages": "114050161948682",
+                    "article:author": "Reuters",
+                    "article:tag": "RSBI:WATER-MANAGEMENT,CLJ,CRIM,CWP,DEF,DIP,DLI,ENV,GEN,H2O,INSURG,ISLM,NEWS1,POL,REL,SECUR,SOCI,TOUR,TRD,VIO,WAR,SASIA,IN,PK,ASXPAC,EMRG,ASIA,TOPNWS,DEST:NOINTIM,DEST:SEATP,DEST:OUSWDM,PACKAGE:WORLD-NEWS,TOPCMB",
+                    "analyticsattributes.topicsubchannel": "Asia Pacific",
+                    "fb:app_id": "988502044532272",
+                    "og:locale:alternate": "en_US",
+                    "viewport": "width=device-width, initial-scale=1",
+                    "twitter:description": "An attack on tourists in India's Himalayan territory of Kashmir this week sparked a new crisis between nuclear armed South Asian neighbours India and Pakistan, with New Delhi blaming militants with \"cross-border linkages\" for the killings.",
+                    "og:locale": "en_US",
+                    "og:url": "https://www.reuters.com/world/asia-pacific/what-steps-have-india-pakistan-taken-against-each-other-after-kashmir-attack-2025-04-24/"
+                }
+            ]
+        },
         "score": 10,
-        "title": "Latest News on Kashmir: Get Kashmir News Updates along with ...",
-        "url": "https://indianexpress.com/about/kashmir/"
+        "url": "https://www.reuters.com/world/asia-pacific/what-steps-have-india-pakistan-taken-against-each-other-after-kashmir-attack-2025-04-24/"
     },
     {
+        "title": "Indian troops beef up security in Kashmir after Pahalgam attack | AP ...",
+        "link": "https://apnews.com/article/kashmir-tourist-attack-india-pakistan-801a1ee244cc88846619370237876c11",
+        "snippet": "3 days ago ... SRINAGAR, India (AP) \u2014 India blamed Pakistan on Wednesday for a militant attack that killed 26 people in Indian-held Kashmir,\u00a0...",
+        "formattedUrl": "https://apnews.com/.../kashmir-tourist-attack-india-pakistan-801a1ee244cc8...",
+        "pagemap": {
+            "metatags": [
+                {
+                    "og:image": "https://dims.apnews.com/dims4/default/24a0c6e/2147483647/strip/true/crop/8413x4732+0+438/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe4%2F9e%2Fc7d237d374bca4ac3f8a878e5d1a%2Fdc91dc878e804689af677c6a60b2ae0d",
+                    "apple-itunes-app": "app-id=364677107, app-argument=https://apnews.com/article/kashmir-tourist-attack-india-pakistan-801a1ee244cc88846619370237876c11",
+                    "og:image:width": "1440",
+                    "article:published_time": "2025-04-23T07:17:03",
+                    "twitter:card": "summary_large_image",
+                    "og:site_name": "AP News",
+                    "og:image:type": "image/jpeg",
+                    "og:description": "Officials said 24 of the people killed were Indian tourists, one was from Nepal and one was a local tourist guide. At least 17 others were injured.",
+                    "twitter:creator": "@hussain_aijaz",
+                    "twitter:image": "https://dims.apnews.com/dims4/default/24a0c6e/2147483647/strip/true/crop/8413x4732+0+438/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe4%2F9e%2Fc7d237d374bca4ac3f8a878e5d1a%2Fdc91dc878e804689af677c6a60b2ae0d",
+                    "twitter:image:alt": "A relative wails during the funeral procession of Adil Hussain Shah, a daily-wage worker, who died when militants indiscriminately opened fire on a crowd of mainly tourists on Tuesday, at his village Hapatnar, about 20 km (13 miles) from Pahalgam where the incident took place, Indian controlled Kashmir, Wednesday, April 23, 2025. (AP Photo/Dar Yasin)",
+                    "twitter:site": "@AP",
+                    "article:modified_time": "2025-04-24T10:19:57.823",
+                    "brightspot.contentid": "10c5bb4b-f830-32b3-b323-8f084e575930",
+                    "thumbnail": "https://dims.apnews.com/dims4/default/24a0c6e/2147483647/strip/true/crop/8413x4732+0+438/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe4%2F9e%2Fc7d237d374bca4ac3f8a878e5d1a%2Fdc91dc878e804689af677c6a60b2ae0d",
+                    "og:image:alt": "A relative wails during the funeral procession of Adil Hussain Shah, a daily-wage worker, who died when militants indiscriminately opened fire on a crowd of mainly tourists on Tuesday, at his village Hapatnar, about 20 km (13 miles) from Pahalgam where the incident took place, Indian controlled Kashmir, Wednesday, April 23, 2025. (AP Photo/Dar Yasin)",
+                    "og:type": "article",
+                    "article:section": "World News",
+                    "twitter:title": "India blames Pakistan for a deadly attack in disputed Kashmir and suspends a key water treaty",
+                    "og:image:url": "https://dims.apnews.com/dims4/default/24a0c6e/2147483647/strip/true/crop/8413x4732+0+438/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe4%2F9e%2Fc7d237d374bca4ac3f8a878e5d1a%2Fdc91dc878e804689af677c6a60b2ae0d",
+                    "og:title": "India blames Pakistan for a deadly attack in disputed Kashmir and suspends a key water treaty",
+                    "og:image:height": "810",
+                    "permutive-datalayer": "{\n  \"category\" : \"World News\",\n  \"dfp_kv\" : {\n    \"page_type\" : \"Article\"\n  },\n  \"tags\" : [ \"AP Top News\", \"World news\", \"Narendra Modi\", \"Terrorism\", \"Pakistan government\", \"Assault\", \"Bill Clinton\", \"Amit Shah\", \"India\", \"International agreements\", \"India government\", \"New Delhi\", \"Pakistan\", \"Kashmir\", \"War and unrest\", \"Omar Abdullah\", \"General news\", \"Politics\", \"Vikram Misri\" ],\n  \"page_type\" : \"Article\",\n  \"publication_date\" : \"2025-04-23T03:17:03.000Z\",\n  \"item_id\" : \"801a1ee244cc88846619370237876c11\",\n  \"headline\" : \"India blames Pakistan for a deadly attack in disputed Kashmir and suspends a key water treaty\",\n  \"authors\" : [ \"AIJAZ HUSSAIN\", \"SHEIKH SAALIQ\", \"RAJESH ROY\" ],\n  \"proximic_video_segments\" : [ ],\n  \"proximic_video_source_url\" : \"\"\n}",
+                    "mdthumbnail": "https://dims.apnews.com/dims4/default/79b70c3/2147483647/strip/false/crop/8413x5609+0+0/resize/690x460!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe4%2F9e%2Fc7d237d374bca4ac3f8a878e5d1a%2Fdc91dc878e804689af677c6a60b2ae0d",
+                    "article:author": "https://apnews.com/author/aijaz-hussain",
+                    "article:tag": "International agreements",
+                    "fb:app_id": "870613919693099",
+                    "viewport": "width=device-width, initial-scale=1.0",
+                    "twitter:description": "India is blaming Pakistan for a militant attack that killed 26 people in Indian-held Kashmir, downgrading diplomatic ties and suspending a crucial water-sharing treaty.",
+                    "og:url": "https://apnews.com/article/kashmir-tourist-attack-india-pakistan-801a1ee244cc88846619370237876c11",
+                    "gtm-datalayer": "{\n  \"event\" : \"Article Visited\",\n  \"Item_Id\" : \"801a1ee244cc88846619370237876c11\",\n  \"item_ID\" : \"801a1ee244cc88846619370237876c11\",\n  \"tag_array\" : \"International agreements,Kashmir,India,New Delhi,Terrorism,Pakistan,Assault,Narendra Modi,Pakistan government,General news,India,AP Top News,Vikram Misri,India government,War and unrest,World News\",\n  \"headline\" : \"India blames Pakistan for a deadly attack in disputed Kashmir and suspends a key water treaty\",\n  \"publication_date\" : \"2025-04-23 03:17:03\",\n  \"author\" : \"AIJAZ HUSSAIN,SHEIKH SAALIQ,RAJESH ROY\",\n  \"linked_video\" : \"YES\",\n  \"pr_content\" : \"NO\",\n  \"featured\" : \"NO\",\n  \"lead_media\" : \"Video\",\n  \"first_slide\" : \"video\",\n  \"urgency\" : 3,\n  \"page_type\" : \"Article\",\n  \"slug_line\" : \"AP-AS-India-Kashmir-Attack, 15th Ld-Writethru\",\n  \"is_infobox_present\" : \"NO\",\n  \"is_inline_link_present\" : \"YES\",\n  \"character_count\" : 7067,\n  \"primary_section\" : \"World News\",\n  \"seo_title_updated\" : \"2025-04-23T03:30:41.971Z\",\n  \"seo_description_updated\" : \"2025-04-23T03:30"
+                }
+            ]
+        },
         "score": 10,
-        "title": "Kashmir | Today's latest from Al Jazeera",
-        "url": "https://www.aljazeera.com/where/kashmir/"
-    },
-    {
-        "score": 10,
-        "title": "Kashmir | AP News",
-        "url": "https://apnews.com/hub/kashmir"
-    },
-    {
-        "score": 10,
-        "title": "Jammu and Kashmir news, Latest and Live Updates on Weather ...",
-        "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/"
-    },
-    {
-        "score": 10,
-        "title": "Jammu and Kashmir: Surge in attacks brings fear to calmer parts of ...",
-        "url": "https://www.bbc.com/news/articles/c728l7n57n7o"
-    },
-    {
-        "score": 10,
-        "title": "Haryana, Kashmir election results: India polls spring surprises",
-        "url": "https://www.bbc.com/news/articles/cx2y4ew10wxo"
-    },
-    {
-        "score": 9,
-        "title": "Authorities must end repression of dissent in Jammu and Kashmir",
-        "url": "https://www.amnesty.org/en/latest/news/2024/09/india-authorities-must-end-repression-of-dissent-in-jammu-and-kashmir/"
-    },
-    {
-        "score": 9,
-        "title": "Conflict Between India and Pakistan | Global Conflict Tracker",
-        "url": "https://www.cfr.org/global-conflict-tracker/conflict/conflict-between-india-and-pakistan"
+        "url": "https://apnews.com/article/kashmir-tourist-attack-india-pakistan-801a1ee244cc88846619370237876c11"
     }
 ]

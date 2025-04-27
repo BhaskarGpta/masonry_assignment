@@ -8,7 +8,7 @@ def main():
     """
     Main function to run the application.
     """
-    query = "What happened in Kashmir recently?"
+    query = "How did Inida respond to the recent Kashmir, Pahalgam incident?"
 
     QueryAnalyzer = QueryProcessor(query) #Initialize our Query Analyzer Agent
     QueryAnalyzer.break_query()

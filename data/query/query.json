@@ -1,14 +1,16 @@
 {
     "intent": "recent news",
     "topics": [
-        "events in Kashmir"
+        "India's response",
+        "Kashmir, Pahalgam incident"
     ],
-    "location": "Kashmir",
-    "time": "recently (leading up to April 25, 2025)",
+    "location": "Kashmir, Pahalgam",
+    "time": "recent (relative to April 27, 2025)",
     "search_terms": [
-        "Kashmir recent news",
-        "What happened in Kashmir lately",
-        "Kashmir events April 2025"
+        "India response Kashmir Pahalgam incident",
+        "Kashmir Pahalgam recent incident",
+        "India reaction Pahalgam attack",
+        "Pahalgam incident April 2025"
     ],
-    "query": "What happened in kashmir recently?"
+    "query": "How did Inida respond to the recent Kashmir, Pahalgam incident?"
 }
