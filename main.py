@@ -17,7 +17,7 @@ def main():
     QueryQill.rank()
 
     Scraper = WebScraper("data/links/scored_links.json")
-    #craper.start_scraping()
+    Scraper.start_scraping()
 
     BT_7274 = Chatbot(query)
     BT_7274.start_chat()
