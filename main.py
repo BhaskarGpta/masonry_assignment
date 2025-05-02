@@ -23,6 +23,7 @@ def main():
     BT_7274.start_chat()
     
     print("Chatbot conversation ended. Exiting...")
+    print("Hope you enjoyed the conversation! Have a great day ahead! 😊") #make user experience more personalised
 
 if __name__ == "__main__":
     main()
