@@ -22,7 +22,6 @@ def main():
     BT_7274 = Chatbot(query)
     BT_7274.start_chat()
     
-    print("Hello World")
 
 if __name__ == "__main__":
     main()
